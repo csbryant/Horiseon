@@ -16,11 +16,11 @@ Added Alts for all images
 
 Added Alt for hero class (digital marketing metting image that's attached in CSS file)
 
-Replaced content to main
+Replaced content with main
 
 Changed divs to section in Content
 
-Edited classes (ino and benefit) to match updated CSS file
+Edited classes (info and benefit) to match updated CSS file
 
 Replaced div for footer with footer tags for accesibility
 
