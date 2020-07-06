@@ -4,25 +4,25 @@
 
 Changed title to "Horiseon Social Solution Services"
 
-Replaced div for header with <header> </header> for accesibility
+Replaced div for header with header tags for accesibility
 
-Replaced div in header with <nav> </nav>
+Replaced div in header with nav
 
 Fixed Social Engine Optimization link by adding div id="search-engine-optimization"
 
-Added <!-- Markers --> to match CSS sections for readability
+Added !-- Markers -- to match CSS sections for readability
 
 Added Alts for all images
 
 Added Alt for hero class (digital marketing metting image that's attached in CSS file)
 
-Replaced content to <main> </main>
+Replaced content to main
 
-Changed divs to <section> <section> in Content
+Changed divs to section in Content
 
 Edited classes (ino and benefit) to match updated CSS file
 
-Replaced div for footer with <footer> </footer> for accesibility
+Replaced div for footer with footer tags for accesibility
 
 ## CSS
 
